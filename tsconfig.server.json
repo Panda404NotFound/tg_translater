@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "dist/server",
+    "noEmit": false,
+    "jsx": "react",
+    "strict": false,
+    "downlevelIteration": true,
+    "skipLibCheck": true,
+    "target": "es2016"
+  },
+  "include": ["src/server/**/*.ts"],
+  "exclude": ["node_modules", "dist", "src/client"]
+} 
