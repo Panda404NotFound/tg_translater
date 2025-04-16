@@ -118,7 +118,3 @@ tg-translator/
    - Выберите вашего бота
    - Выберите "Edit Bot" > "Menu Button" > "Configure menu button"
    - Установите URL вашего приложения
-
-## Лицензия
-
-MIT 
